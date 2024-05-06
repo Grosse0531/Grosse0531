@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Eddie Gross
 
 <!--
 **Grosse0531/Grosse0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
