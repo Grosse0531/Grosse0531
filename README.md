@@ -4,7 +4,7 @@ www.linkedin.com/in/eddie-gross-iii-36a1b9132
 [Brief Introduction]
 
 
-I am currently a Pharamcutical Facilities mechanic with Catalent Pharma Solutions working on certification in cybersecurity.
+I am currently a Pharmaceutical Facilities Mechanic with Catalent Pharma Solutions working on certification in cybersecurity with Google cert.
 <!--
 **Grosse0531/Grosse0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
