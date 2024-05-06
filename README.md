@@ -1,5 +1,5 @@
 # Hello, I'm Eddie Gross III
-<a href="www.linkedin.com/in/eddie-gross-iii-36a1b9132"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/eddie-gross-iii-36a1b9132"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
