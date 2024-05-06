@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/eddie-gross-iii-36a1b9132"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I have recently completed my Google Certification in Cybersecurity, with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
