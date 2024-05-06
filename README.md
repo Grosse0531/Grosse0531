@@ -1,5 +1,8 @@
 ### Hi, I'M Eddie Gross
 www.linkedin.com/in/eddie-gross-iii-36a1b9132
+
+[Brief Introduction]
+I am currently and Pharamcutical mechanic with Catalent Pharma Solutions working on certification in cybersecurity.
 <!--
 **Grosse0531/Grosse0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
