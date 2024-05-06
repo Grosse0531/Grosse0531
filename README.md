@@ -8,7 +8,9 @@ I am currently a Pharmaceutical Facilities Mechanic with Catalent Pharma Solutio
 <!--
 **Grosse0531/Grosse0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[OBJECTIVE]
+
+My intrest in computer science has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a cybersecurity analyst (SCA) as a Tier 1 analyst.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
