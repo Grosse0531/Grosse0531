@@ -55,5 +55,5 @@ My intrest in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Grosse0531/Botium-Toys-Scope-goals-and-risk-assessment-report">Botium Toys report</a>
 - SOC Automation Project
