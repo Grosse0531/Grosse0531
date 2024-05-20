@@ -15,7 +15,7 @@ My intrest in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Grosse0531/Botium-Toys-Scope-goals-and-risk-assessment-report">Botium Toys report</a>|
-| Cybersecurity Incident Report:Network Traffic Analysis| <a href="https://docs.google.com/document/d/1NefE-jtBvjUSdp9epYt4pMQsWBvMYM9nwJJ-ZWcNKUM/edit">Incident Report</a>|
+| Cybersecurity Incident Report:Network Traffic Analysis| <a href="https://github.com/Grosse0531/Incident-Report/blob/main/README.md">Incident Report</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
