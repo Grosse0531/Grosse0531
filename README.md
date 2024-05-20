@@ -56,4 +56,4 @@ My intrest in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Grosse0531/Botium-Toys-Scope-goals-and-risk-assessment-report">Botium Toys report</a>
-- <a href="https://github.com/Grosse0531/Botium-Toys-Scope-goals-and-risk-assessment-report">Botium Toys report</a>
+- <a href="https://github.com/Grosse0531/Incident-Report/blob/main/README.md">Incident report</a>
