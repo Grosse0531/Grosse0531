@@ -7,7 +7,7 @@ I have recently completed my Google Certification in Cybersecurity, with a profo
 ## Objective
 
 
-My intrest in computer science has led me to develop a passion for cybersecurity, I am eager to transition into this field, with intrest in joining as a Cybersecurity Analyst (SCA) as a Tier 1 Analyst.
+My intrest in computer science has led me to develop a passion for cybersecurity, I am looking forward to transition into this field, with intrest in joining as a Cybersecurity Analyst (SCA) as a Tier 1 Analyst.
 
 ## Skills
 
